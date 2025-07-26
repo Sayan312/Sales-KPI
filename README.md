@@ -1,6 +1,9 @@
 # Sales-KPI
+
 Objective:
 . Producing an Excel Dashboard representing Sales Performance through Key Indicators across various parameters.
+
+
 Steps:
 . We take the raw sales data and apply vlookup on the basis of the customer ids and codes that links the sales page to the customers , regions table .
 . We create a Total Price by multiplying the order quantity with Unit Price and Total Profit column by subtracting the Cost column from the Total Price column to give further insights into the data at hand. 
